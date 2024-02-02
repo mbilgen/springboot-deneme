@@ -11,7 +11,6 @@ import org.springframework.stereotype.Component;
 @Entity
 @Table(name = "Sehirler")
 public class Sehir {
-
     private int id;
 
     private String isim;
